@@ -15,3 +15,22 @@ Please delete the project execute script-delete-envs.sh file.
   alt="Alt text"
   title="Minikube Cluster Dashboard"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img
+  src="/IMG/add-data-in-frontend-database-backend.png
+  alt="Alt text"
+  title="Minikube Cluster Dashboard"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">  
+
+
+<img
+  src="/IMG/add-data-in-frontend-database-backend.png
+  alt="Alt text"
+  title="Minikube Cluster Dashboard"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">  
+
+<img
+  src="/IMG/select-in-mydatabase.png
+  alt="Alt text"
+  title="Minikube Cluster Dashboard"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">    
