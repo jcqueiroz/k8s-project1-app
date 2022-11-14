@@ -9,3 +9,9 @@ Please start the project execute script-start-envs.sh file.
 Please delete the project execute script-delete-envs.sh file.
 
 ####################################################################################
+
+<img
+  src="/IMG/minikube-dashboards.png"
+  alt="Alt text"
+  title="Minikube Cluster Dashboard"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
